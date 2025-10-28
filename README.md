@@ -14,7 +14,7 @@ I am a 2B Honors Mathematics student at the University of Waterloo
 * Building a HR Dashboard with React, Next.js
 * Currently working at Sprectrum Software and COnsulting Ltd.
 
-Check out my Website @ zareefyeasinzaman.com
+Check out my Website: zareefyeasinzaman.com
 
 ---
 
