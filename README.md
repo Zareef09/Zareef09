@@ -1,4 +1,4 @@
-# Hi 👋 I'm Zareef
+# Hi I'm Zareef
 
 ---
 
