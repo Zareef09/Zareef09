@@ -12,7 +12,7 @@ I am a 2B Honors Mathematics student at the University of Waterloo
 
 * Exploring Machine Learning with scikit learn 
 * Building an HR Dashboard with React, Next.js
-* Currently working at Sprectrum Software and COnsulting Ltd.
+* Currently working at Sprectrum Software and Consulting Ltd.
 
 Check out my Website: zareefyeasinzaman.com
 
