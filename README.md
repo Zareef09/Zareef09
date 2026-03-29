@@ -1,6 +1,6 @@
 # Hi, I'm Zareef Zaman
 
-**2B Honours Mathematics @ University of Waterloo** *Full-Stack Engineer & Automation Enthusiast*
+**2B Honours Mathematics @ University of Waterloo** *Full-Stack Engineer*
 
 ---
 
@@ -46,5 +46,3 @@
 - **Portfolio:** [zareefyeasinzaman.com](https://zareefyeasinzaman.com)
 - **LinkedIn:** [linkedin.com/in/zareefzaman](https://www.linkedin.com/in/zareefzaman/)
 - **Email:** [zyzaman@uwaterloo.ca](mailto:zyzaman@uwaterloo.ca)
-
-*"Mathematics is the music of reason." – Currently applying that logic to high-scale software.*
