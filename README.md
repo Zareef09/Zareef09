@@ -1,33 +1,50 @@
-# Hi I'm Zareef
+# ⚡ Hi, I'm Zareef Zaman
+
+**2B Honours Mathematics @ University of Waterloo** *Full-Stack Engineer & Automation Enthusiast*
 
 ---
 
-## 🧑‍🎓 About Me:
-
-I am a 2B Honors Mathematics student at the University of Waterloo
-
----
-
-## 🚀 What I'm Up To
-
-* Exploring Machine Learning with scikit learn 
-* Building an HR Dashboard with React, Next.js
-* Currently working at Sprectrum Software and Consulting Ltd.
-
-Check out my Website: zareefyeasinzaman.com
-
----
-
-## 💼 Connect with me: 
-www.linkedin.com/in/zareefyeasinzaman
-
----
-
-## 💻 Tech Stack:
+## 🛠️ My Technical Arsenal
 
 | Category | Skills |
-| **Languages** | PYTHON, SQL, HTML, CSS, JAVASCRIPT, C++, R |
-| **Libraries/Frameworks** | REACT, NEXT.JS, EXPRESS.JS, Tailwind CSS
-| **Cloud/Tools** | **AWS**, **Docker**, **Git** |
-| **Databases** | **PostgreSQL**, MongoDB |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Python, C++, SQL, R, HTML/CSS |
+| **Frontend** | React.js, Next.js, Tailwind CSS, React Native, Shadow DOM |
+| **Backend** | Node.js (Express), FastAPI, PostgreSQL, MongoDB, Firebase |
+| **DevOps/Tools** | Docker, Kubernetes, GCP, SCCM, Git, Cursor, Power BI |
 
+---
+
+## 💎 Featured Engineering Projects
+
+### [⚡ PromptBolt](https://github.com/Zareef09/PromptBolt)
+**High-Performance AI Command Palette** (React, TypeScript, Chrome API)
+* **The Tech:** Built a Spotlight-style (`Cmd+Shift+K`) interface using **Shadow DOM** for zero-conflict UI injection.
+* **AI Logic:** Integrated **Gemini 1.5 Flash** to architect a "Magic" prompt generator and a custom **Regex engine** for dynamic variable parsing.
+* *Status: Currently in final review for the Chrome Web Store.*
+
+### [🎓 GradX](https://github.com/Zareef09/GradX)
+**Intelligent Degree Planner for UWaterloo** (Next.js, FastAPI, PostgreSQL)
+* **The Core:** Engineered a validation engine to perform real-time prerequisite checks against complex university academic calendars.
+* **The Vision:** Features an AI-powered roadmap generator and a drag-and-drop terminal mapping interface.
+
+---
+
+## 💼 Professional Snapshot
+
+**Software Developer @ Spectrum Engineering Consortium**
+* Optimizing HR workflows by building centralized MERN-stack management dashboards.
+* Automated leave-request modules, reducing manager approval cycles by 66%.
+
+**IT Analyst @ City of Cambridge**
+* Reduced system downtime by 40% through PowerShell automation and PostgreSQL query monitoring.
+* Led hardware/data migration for 170+ staff members with a ~100% success rate.
+
+---
+
+## 📈 Let's Connect
+- **Portfolio:** [zareefyeasinzaman.com](https://zareefyeasinzaman.com)
+- **LinkedIn:** [linkedin.com/in/zareefzaman](https://www.linkedin.com/in/zareefzaman/)
+- **Email:** [zyzaman@uwaterloo.ca](mailto:zyzaman@uwaterloo.ca)
+
+*"Mathematics is the music of reason." – Currently applying that logic to high-scale software.*
