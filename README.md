@@ -1,10 +1,10 @@
-# ⚡ Hi, I'm Zareef Zaman
+# Hi, I'm Zareef Zaman
 
 **2B Honours Mathematics @ University of Waterloo** *Full-Stack Engineer & Automation Enthusiast*
 
 ---
 
-## 🛠️ My Technical Arsenal
+## Technical Skills
 
 | Category | Skills |
 | :--- | :--- |
@@ -15,22 +15,22 @@
 
 ---
 
-## 💎 Featured Engineering Projects
+## Featured Engineering Projects
 
-### [⚡ PromptBolt](https://github.com/Zareef09/PromptBolt)
+### [PromptBolt](https://github.com/Zareef09/PromptBolt)
 **High-Performance AI Command Palette** (React, TypeScript, Chrome API)
 * **The Tech:** Built a Spotlight-style (`Cmd+Shift+K`) interface using **Shadow DOM** for zero-conflict UI injection.
 * **AI Logic:** Integrated **Gemini 1.5 Flash** to architect a "Magic" prompt generator and a custom **Regex engine** for dynamic variable parsing.
 * *Status: Currently in final review for the Chrome Web Store.*
 
-### [🎓 GradX](https://github.com/Zareef09/GradX)
+### [GradX](https://github.com/Zareef09/GradX)
 **Intelligent Degree Planner for UWaterloo** (Next.js, FastAPI, PostgreSQL)
 * **The Core:** Engineered a validation engine to perform real-time prerequisite checks against complex university academic calendars.
 * **The Vision:** Features an AI-powered roadmap generator and a drag-and-drop terminal mapping interface.
 
 ---
 
-## 💼 Professional Snapshot
+## Professional Snapshot
 
 **Software Developer @ Spectrum Engineering Consortium**
 * Optimizing HR workflows by building centralized MERN-stack management dashboards.
