@@ -11,7 +11,7 @@
 | **Languages** | TypeScript, JavaScript, Python, C++, SQL, R, HTML/CSS |
 | **Frontend** | React.js, Next.js, Tailwind CSS, React Native, Shadow DOM |
 | **Backend** | Node.js (Express), FastAPI, PostgreSQL, MongoDB, Firebase |
-| **DevOps/Tools** | Docker, Kubernetes, GCP, SCCM, Git, Cursor, Power BI |
+| **DevOps/Tools** | Docker, Kubernetes, GCP, SCCM, Git, Cursor |
 
 ---
 
@@ -43,6 +43,5 @@
 ---
 
 ## 📈 Let's Connect
-- **Portfolio:** [zareefyeasinzaman.com](https://zareefyeasinzaman.com)
 - **LinkedIn:** [linkedin.com/in/zareefzaman](https://www.linkedin.com/in/zareefzaman/)
 - **Email:** [zyzaman@uwaterloo.ca](mailto:zyzaman@uwaterloo.ca)
