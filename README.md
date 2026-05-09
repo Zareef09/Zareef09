@@ -1,6 +1,6 @@
 # Hi, I'm Zareef Zaman
 
-**2B Honours Mathematics @ University of Waterloo** *Full-Stack Engineer*
+**3A Honours Mathematics @ University of Waterloo** *Full-Stack Engineer*
 
 ---
 
