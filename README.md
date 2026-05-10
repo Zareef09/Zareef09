@@ -23,11 +23,6 @@
 * **AI Logic:** Integrated **Gemini 1.5 Flash** to architect a "Magic" prompt generator and a custom **Regex engine** for dynamic variable parsing.
 * *Status: Currently in final review for the Chrome Web Store.*
 
-### [GradX](https://github.com/Zareef09/GradX)
-**Intelligent Degree Planner for UWaterloo** (Next.js, FastAPI, PostgreSQL)
-* **The Core:** Engineered a validation engine to perform real-time prerequisite checks against complex university academic calendars.
-* **The Vision:** Features an AI-powered roadmap generator and a drag-and-drop terminal mapping interface.
-
 ---
 
 ## Professional Snapshot
@@ -36,12 +31,8 @@
 * Optimizing HR workflows by building centralized MERN-stack management dashboards.
 * Automated leave-request modules, reducing manager approval cycles by 66%.
 
-**IT Analyst @ City of Cambridge**
-* Reduced system downtime by 40% through PowerShell automation and PostgreSQL query monitoring.
-* Led hardware/data migration for 170+ staff members with a ~100% success rate.
-
 ---
 
-## 📈 Let's Connect
+## Let's Connect
 - **LinkedIn:** [linkedin.com/in/zareefzaman](https://www.linkedin.com/in/zareefzaman/)
 - **Email:** [zyzaman@uwaterloo.ca](mailto:zyzaman@uwaterloo.ca)
