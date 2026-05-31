@@ -17,7 +17,7 @@
 
 ## Featured Engineering Projects
 
-### [PromptBolt](https://github.com/Zareef09/PromptBolt)
+### [DRIFT](https://github.com/Zareef09/Drift
 **High-Performance AI Command Palette** (React, TypeScript, Chrome API)
 * **The Tech:** Built a Spotlight-style (`Cmd+Shift+K`) interface using **Shadow DOM** for zero-conflict UI injection.
 * **AI Logic:** Integrated **Gemini 1.5 Flash** to architect a "Magic" prompt generator and a custom **Regex engine** for dynamic variable parsing.
